@@ -1,0 +1,125 @@
+{
+ "outbounds": [
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 0",
+   "server": "185.231.205.71",
+   "server_port": 3237,
+   "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 1",
+   "server": "185.153.183.181",
+   "server_port": 3237,
+   "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 2",
+   "server": "185.231.205.38",
+   "server_port": 3237,
+   "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 3",
+   "server": "185.153.183.129",
+   "server_port": 3237,
+   "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 4",
+   "server": "91.134.102.128",
+   "server_port": 22671,
+   "uuid": "91989253-37d6-4d28-83fe-8ffd0c3de0f7",
+   "transport": {
+    "type": "http",
+    "host": "telewebion.com",
+    "path": "/",
+    "method": "GET"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 5",
+   "server": "2.189.104.10",
+   "server_port": 52418,
+   "uuid": "c31d6b4e-6105-4197-c94d-c45bce6c23a2",
+   "transport": {
+    "type": "ws",
+    "path": "/",
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 6",
+   "server": "88.216.214.8",
+   "server_port": 8880,
+   "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 7",
+   "server": "45.133.216.209",
+   "server_port": 2082,
+   "uuid": "c4354105-93a5-5577-998e-a6e3fc29e41f",
+   "transport": {
+    "type": "grpc",
+    "service_name": "vless-grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 8",
+   "server": "94.131.13.110",
+   "server_port": 2052,
+   "uuid": "17a7b879-4c4b-500a-815b-49507fdf1aa7",
+   "transport": {
+    "type": "ws",
+    "path": "/vless",
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام HIDDIFY_plas@ § 9",
+   "server": "95.164.8.185",
+   "server_port": 8080,
+   "uuid": "8da3432a-d4da-4f43-801f-342cda5eae9f",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.speedtest.net",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg",
+     "short_id": "7554c6ea"
+    }
+   },
+   "packet_encoding": "xudp"
+  }
+ ]
+}
