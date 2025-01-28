@@ -1,0 +1,752 @@
+{
+ "outbounds": [
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 0",
+   "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+   "server_port": 80,
+   "uuid": "TELEGRAM-NUFiLTER-45015982845f",
+   "transport": {
+    "type": "ws",
+    "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+    "headers": {
+     "Host": "kazemi11zerofun.com"
+    },
+    "max_early_data": 8080,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 1",
+   "server": "NUFiLTER.fastly80.hosting-ip.com",
+   "server_port": 80,
+   "uuid": "TELEGRAM-NUFiLTER-40eec429e093",
+   "transport": {
+    "type": "ws",
+    "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+    "headers": {
+     "Host": "6.fidsxss10x.ir"
+    },
+    "max_early_data": 8080,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 2",
+   "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+   "server_port": 80,
+   "uuid": "TELEGRAM-NUFiLTER-9e21e5d01c39",
+   "transport": {
+    "type": "ws",
+    "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+    "headers": {
+     "Host": "Dorzadim.filtero.net"
+    },
+    "max_early_data": 8080,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 3",
+   "server": "NUFiLTER.fastly80-3.hosting-ip.com",
+   "server_port": 80,
+   "uuid": "TELEGRAM-NUFiLTER-bffb620a7101",
+   "transport": {
+    "type": "ws",
+    "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+    "headers": {
+     "Host": "6.fidsxss6x.ir"
+    },
+    "max_early_data": 8080,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 4",
+   "server": "series-a2-me.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "Bog0ELmMM9DSxDdQ"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 5",
+   "server": "series-a2.samanehha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 6",
+   "server": "series-a2.samanehha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 7",
+   "server": "series-a2.samanehha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 8",
+   "server": "series-a2-mec.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 9",
+   "server": "series-a2.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 10",
+   "server": "api.namasha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 11",
+   "server": "best1.bestshop10.ir",
+   "server_port": 16072,
+   "uuid": "c935aba0-8835-426a-a585-225baee13f70",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 12",
+   "server": "series-a2-me.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "Bog0ELmMM9DSxDdQ"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 13",
+   "server": "series-a2-me.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "Bog0ELmMM9DSxDdQ"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 14",
+   "server": "88.216.214.16",
+   "server_port": 8880,
+   "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 15",
+   "server": "series-a2-mec.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 16",
+   "server": "141.193.213.19",
+   "server_port": 443,
+   "uuid": "cc6b985d-0362-4129-8763-38564174fb3e",
+   "tls": {
+    "enabled": true,
+    "server_name": "iryiccyne.wwtraveler.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "grpc",
+    "service_name": "michi",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 17",
+   "server": "154.194.12.188",
+   "server_port": 443,
+   "uuid": "cc6b985d-0362-4129-8763-38564174fb3e",
+   "tls": {
+    "enabled": true,
+    "server_name": "iryiccyne.wwtraveler.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "grpc",
+    "service_name": "michi",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 18",
+   "server": "series-a2.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 19",
+   "server": "88.216.214.51",
+   "server_port": 8880,
+   "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 20",
+   "server": "88.216.214.51",
+   "server_port": 8880,
+   "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 21",
+   "server": "api.namasha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 22",
+   "server": "api.namasha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 23",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 24",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 25",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 26",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 27",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 28",
+   "server": "bru-be-01.fromblancwithlove.com",
+   "server_port": 8443,
+   "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
+   "tls": {
+    "enabled": true,
+    "disable_sni": true,
+    "alpn": "h2"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 29",
+   "server": "series-a2.samanehha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 30",
+   "server": "series-a2.samanehha.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 31",
+   "server": "mil-it.fromblancwithlove.com",
+   "server_port": 8443,
+   "uuid": "157448af-8ecf-4075-a9e9-b23a6a94899b",
+   "tls": {
+    "enabled": true,
+    "disable_sni": true,
+    "alpn": "h2"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 32",
+   "server": "series-a2-mec.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "u17T3BvpYaaiuW2c"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 33",
+   "server": "95.164.34.105",
+   "server_port": 2082,
+   "uuid": "5ebd4347-904e-5baa-a195-e6673fa81cb6",
+   "transport": {
+    "type": "grpc",
+    "service_name": "vless-grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 34",
+   "server": "series-a2.varzesh360.co",
+   "server_port": 443,
+   "method": "chacha20-ietf-poly1305",
+   "password": "mps3FwmDjLrWaOVg"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 35",
+   "server": "speedtest.net",
+   "server_port": 80,
+   "uuid": "282b9908-551a-44c2-97ba-3f8f293e06c4",
+   "transport": {
+    "type": "ws",
+    "path": "/olem/ws",
+    "headers": {
+     "Host": "foffmelo.com"
+    },
+    "max_early_data": 1024,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 36",
+   "server": "45.144.48.63",
+   "server_port": 57456,
+   "method": "chacha20-ietf-poly1305",
+   "password": "d3837224ed465f00"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 37",
+   "server": "45.87.175.171",
+   "server_port": 8080,
+   "method": "chacha20-ietf-poly1305",
+   "password": "4a2rfixophdjffa8KVA4Aa"
+  },
+  {
+   "type": "shadowsocks",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 38",
+   "server": "war.ssvpnapp.win",
+   "server_port": 57456,
+   "method": "chacha20-ietf-poly1305",
+   "password": "d3837224ed465f00"
+  },
+  {
+   "type": "hysteria2",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 39",
+   "server": "165.1.64.133",
+   "server_port": 27770,
+   "password": "8d052411-1bff-42da-81cc-3f1d81550dbd",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.bing.com",
+    "insecure": true
+   }
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 40",
+   "server": "91.134.102.128",
+   "server_port": 22671,
+   "uuid": "91989253-37d6-4d28-83fe-8ffd0c3de0f7",
+   "transport": {
+    "type": "http",
+    "host": "telewebion.com",
+    "path": "/",
+    "method": "GET"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 41",
+   "server": "162.19.228.119",
+   "server_port": 80,
+   "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
+   "transport": {
+    "type": "ws",
+    "path": "/http",
+    "headers": {
+     "Host": "google.com"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 42",
+   "server": "162.19.228.119",
+   "server_port": 80,
+   "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
+   "transport": {
+    "type": "ws",
+    "path": "/http",
+    "headers": {
+     "Host": "google.com"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 43",
+   "server": "95.164.8.185",
+   "server_port": 8080,
+   "uuid": "8da3432a-d4da-4f43-801f-342cda5eae9f",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.speedtest.net",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg",
+     "short_id": "7554c6ea"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 44",
+   "server": "88.216.214.48",
+   "server_port": 8880,
+   "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 45",
+   "server": "ZuLa.ir",
+   "server_port": 8080,
+   "uuid": "70baeba0-f40b-4cc2-8f18-d3aae916d83b",
+   "transport": {
+    "type": "ws",
+    "path": "/telegram-@v2ray_alpha",
+    "headers": {
+     "Host": "seyyed.webdade.ip-ddns.com"
+    },
+    "max_early_data": 2048,
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 46",
+   "server": "160.153.0.131",
+   "server_port": 8443,
+   "uuid": "96a1b724-68d2-4f4d-ab25-38ecd83577bc",
+   "tls": {
+    "enabled": true,
+    "server_name": "HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/",
+    "headers": {
+     "Host": "HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 47",
+   "server": "faculty.ucdavis.edu",
+   "server_port": 443,
+   "uuid": "7dc61cd6-320e-5d71-8bd3-9720e0b03c4b",
+   "tls": {
+    "enabled": true,
+    "server_name": "faculty.ucdavis.edu",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "qq"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "headers": {
+     "Host": "PABLOO-MOSTAFA.COM"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 48",
+   "server": "151.101.66.133",
+   "server_port": 443,
+   "uuid": "25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2",
+   "tls": {
+    "enabled": true,
+    "server_name": "anchor.fm",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/stream/#Telegram@V2ray_Alpha",
+    "headers": {
+     "Host": "magdl.ir"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 49",
+   "server": "www.zula.ir",
+   "server_port": 443,
+   "uuid": "2a943112-138b-432d-a3a5-277ea2fd8a2e",
+   "tls": {
+    "enabled": true,
+    "server_name": "Tp770FvUlD.aLtAbAnIc.Ir",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "firefox"
+    }
+   },
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 50",
+   "server": "www.zula.ir",
+   "server_port": 443,
+   "uuid": "2a943112-138b-432d-a3a5-277ea2fd8a2e",
+   "tls": {
+    "enabled": true,
+    "server_name": "Tp773Os476.AlTaBaNiC.iR",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "firefox"
+    }
+   },
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 51",
+   "server": "www.zula.ir",
+   "server_port": 443,
+   "uuid": "2a943112-138b-432d-a3a5-277ea2fd8a2e",
+   "tls": {
+    "enabled": true,
+    "server_name": "Tp768KbOzD.aLtAbAnIc.Ir",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "firefox"
+    }
+   },
+   "transport": {
+    "type": "grpc",
+    "idle_timeout": "15s",
+    "ping_timeout": "15s"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vmess",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 52",
+   "server": "ovhwuxian.pai50288.uk",
+   "server_port": 8443,
+   "uuid": "86455bfc-dd02-4a3b-9f03-7668f39375d6",
+   "security": "auto",
+   "authenticated_length": true,
+   "tls": {
+    "enabled": true,
+    "server_name": "ovhwuxian.pai50288.uk",
+    "alpn": "http/1.1",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "packet_encoding": "xudp",
+   "transport": {
+    "type": "ws",
+    "path": "/",
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   }
+  },
+  {
+   "type": "vmess",
+   "tag": "کانال تلگرام : HIDDIFY_plas@ / مناسب همه اپراتورها § 53",
+   "server": "ovhwuxian.pai50288.uk",
+   "server_port": 8443,
+   "uuid": "86455bfc-dd02-4a3b-9f03-7668f39375d6",
+   "security": "auto",
+   "authenticated_length": true,
+   "tls": {
+    "enabled": true,
+    "server_name": "ovhwuxian.pai50288.uk",
+    "alpn": "http/1.1",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   
